@@ -495,3 +495,18 @@
   * Vacuum hoses (Вакуумные трубки)
   * AC refrigerant lines (Трубки кондиционера)
 * Clamps, hose clips, brackets (Хомуты, зажимы, кронштейны)
+
+#####################################################
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;13. ТРИНАДЦАТЫЙ МЕШОК САНТЫ: MISCELLANEOUS & ACCESSORIES / ПРОЧЕЕ И АКСЕССУАРЫ
+<br>
+<br>
+#####################################################
+
+* Tool kit (Инструментальный набор: ключи, балонник, домкрат)
+* Warning triangle & first aid kit (Знак аварийной остановки и аптечка)
+* Vehicle labels & VIN plates (Шильдики и таблички VIN)
+* Hood insulation pad (Шумоизоляция капота)
+* Firewall insulation & sound deadening (Шумоизоляция моторного щита и пола)
+* Paint touch-up & trim pieces (Накладки и элементы отделки)
