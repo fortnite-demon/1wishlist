@@ -297,3 +297,50 @@
   * Trunk seal / boot seal (Уплотнитель багажника) 
 * Fasteners & clips for body panels
   * Body panel screws, rivets, clips (Саморезы, заклёпки, пластиковые клипсы) 
+
+#####################################################
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;7. СЕДЬМОЙ МЕШОК САНТЫ: INTERIOR / САЛОН И ОТДЕЛКА
+<br>
+<br>
+#####################################################
+
+* Instrument panel / Dash (Панель приборов / торпеда)
+  * Dashboard top cover (Верхняя часть торпеды) 
+  * Instrument cluster (Digital instrument cluster) (Комбинация приборов цифровая) 
+  * Glove box assembly (Бардачок) 
+  * Air vents & trim (Воздуховоды и декоративные накладки) 
+* Center console (Центральная консоль)
+  * Gear selector / shift lever (Селектор КПП) 
+  * iDrive controller (Регулятор iDrive)
+  * Cupholders & storage compartments (Подстаканники)
+* Seats (Сиденья)
+  * Front seat driver (Переднее сиденье водителя, M Sport)
+    * Seat frame (Рама сиденья) 
+    * Electric adjust motors (Моторы регулировки) 
+    * Seat heating elements (Нагрев) 
+    * Seat ventilation fan assembly (Вентиляция сиденья) 
+    * Side airbag module (Датчик/модуль подушки)
+    * Seat belt buckle / anchor (Пряжка ремня)
+  * Front seat passenger (Переднее сиденье пассажира) 
+  * Rear seats (Задний диван)
+    * Rear seat backs, cushions, mounts (Спинка, сидушка, крепления)
+* Seat belts (Ремни безопасности)
+  * Front seat belts with pretensioners (Передние ремни с натяжителем)
+  * Rear seat belts (Задние ремни)
+  * ISOFIX anchor points (Крепления ISOFIX)
+* Interior trims & panels (Обшивки и панели)
+  * Door cards (Дверные карты)
+  * A-pillars, B-pillars, C-pillars trims (Облицовки стоек)
+  * Headliner (Обивка потолка, алькантара опция)
+* Interior lighting (Освещение салона)
+  * Dome lights (Плафоны освещения)
+  * Ambient lighting strips (Подсветка салона)
+* Carpets & floor mats (Ковры и коврики)
+  * Floor carpet (Ковровое покрытие салона)
+  * Floor mats (Коврики M Performance)
+* Glovebox, cupholders, storage (Бардачок, подстаканники, ячейки)
+  * Glovebox latch & dampers (Замок бардачка и демпфер)
+  * Center armrest (Центральный подлокотник)
+  * USB ports and trim (USB-порты и декоративные рамки)
