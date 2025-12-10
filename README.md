@@ -223,3 +223,24 @@
   * Caliper mounting bolts (Болты крепления суппорта) 
   * Brake pad retaining pins (Направляющие/пины колодок) 
   * Banjo bolts & copper washers (Штуцеры и медные шайбы) 
+
+#####################################################
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;5. ПЯТЫЙ МЕШОК САНТЫ: WHEELS & TIRES / КОЛЁСА И ШИНЫ
+<br>
+<br>
+#####################################################
+
+* Wheels / Диски
+  * Wheel rim front (Колесный диск передний, alloy M)
+  * Wheel rim rear (Колесный диск задний)
+  * Wheel bolts / lug bolts (Болты колесные) 
+  * Center caps (Колпачки центральные) 
+* Tires / Шины
+  * Tyre front (Шина передняя) 
+  * Tyre rear (Шина задняя)
+  * Tyre pressure sensors (RDC sensors) (Датчики давления шин) 
+* Spare / Mobility kit
+  * Mobility kit compressor & sealant OR spare wheel (Комплект подкачки/герметика или запаска) 
+  * Jack & tool kit (Домкрат и набор инструментов) 
