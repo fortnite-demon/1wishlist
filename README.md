@@ -416,3 +416,27 @@
 * Misc electronics (Прочая электроника)
   * Sensors for seat occupancy (Датчики присутствия в сиденье)
   * Airbag connectors & wiring (Разъёмы и жгуты SRS)
+
+#####################################################
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;10. ДЕСЯТЫЙ МЕШОК САНТЫ: INFOTAINMENT & AUDIO / МУЛЬТИМЕДИА И АУДИО
+<br>
+<br>
+#####################################################
+
+* iDrive control unit & display (Блок iDrive и центральный дисплей)
+  * Touchscreen display (Сенсорный дисплей)
+  * iDrive controller knob (Ручка iDrive)
+* Instrument cluster (Комбинация приборов)
+* Head unit / radio / navigation module (Головной блок радиоприёмника/навигации) 
+* Speakers / loudspeakers (Динамики)
+  * Front door speakers (Передние динамики) 
+  * Rear door speakers (Задние динамики)
+  * Tweeters / midrange / subwoofer (Твиттеры/мидбасы/сабвуфер)
+* Amplifier (Усилитель) 
+* Antenna module & cabling (Антенна радио/GPS/DAB) 
+* USB ports / AUX / HDMI (Разъёмы USB/AUX/HDMI) 
+* Bluetooth module (Модуль Bluetooth)
+* Head-up display unit (HUD)
+* Microphones (Микрофоны салона для hands-free)
