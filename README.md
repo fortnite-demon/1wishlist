@@ -364,3 +364,55 @@
 * Cabin air filter / pollen filter (Салонный фильтр)
 * Heater valves & actuators (Клапаны и приводы заслонок)
 * Climate sensors (Температуры/влажности)
+
+#####################################################
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;9. ДЕВЯТЫЙ МЕШОК САНТЫ: ELECTRICAL & ELECTRONICS / ЭЛЕКТРООБОРУДОВАНИЕ
+<br>
+<br>
+#####################################################
+
+* Battery & charging (Аккумулятор и зарядка)
+  * 12V battery (Аккумулятор 12В, AGM/особый)
+  * Battery sensor / monitor (Датчик АКБ)
+  * Battery hold-down & bracket (Кронштейн АКБ) 
+* Alternator (Генератор)
+* Starter motor (Стартер)
+* Fuse boxes & relays (Блоки предохранителей и реле)
+  * Engine bay fuse box (Блок предохранителей моторного отсека)
+  * Interior fuse box (Блок предохранителей салона) 
+  * Relay modules (Реле)
+* Wiring harnesses & connectors (Жгуты проводов и разъёмы)
+  * Engine harness (Жгут двигателя)
+  * Body harness (Корпусный жгут)
+  * Door harnesses (Жгуты дверей) 
+  * Roof harness (Жгут крыши)
+  * Trunk harness (Жгут багажника)
+* Control units (ECU modules)
+  * DME (Engine ECU)
+  * TCU (Transmission ECU)
+  * DSC / ABS module
+  * Airbag control module (SRS ECU)
+  * Gateway / Body Domain Controller (BDC)
+  * Telematics Control Unit (TCU / ConnectedDrive module)
+  * Amplifier for audio (Усилитель)
+  * Headlamp control module (Блок управления фарами)
+  * Parking assist control unit (Блок парковки)
+* Sensors (Датчики)
+  * Wheel speed sensors (Датчики скорости колес ABS)
+  * Steering angle sensor (Датчик угла рулевого колеса)
+  * Rain/light sensor (Датчик дождя/света)
+  * Ambient temperature sensor (Датчик внешней температуры)
+  * Interior temperature sensor (Датчик температуры в салоне)
+  * Parking ultrasonic sensors (Датчики парктроника)
+  * Cameras (circular view/backup/front) (Камеры кругового обзора/заднего вида/передняя)
+* Lighting electronics (Электроника освещения)
+  * LED drivers / Ballasts (Драйверы светодиодов) 
+  * Headlight leveling motor & sensors (Привод регулировки фар)
+* Keyless & locking (Комфортные системы)
+  * Central locking actuator(s) (Активаторы замков дверей)
+  * Comfort access antenna & sensors (Антенны Keyless/Comfort Access)
+* Misc electronics (Прочая электроника)
+  * Sensors for seat occupancy (Датчики присутствия в сиденье)
+  * Airbag connectors & wiring (Разъёмы и жгуты SRS)
