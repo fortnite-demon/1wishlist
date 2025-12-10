@@ -465,3 +465,33 @@
   * Crash sensors / impact sensors (Датчики удара) 
 * Seat belt pretensioners & sensors (Натяжители ремней и датчики)
 * Alarm & immobilizer (Сигнализация и иммобилайзер)
+
+
+#####################################################
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;12. ДВЕНАДЦАТЫЙ МЕШОК САНТЫ: FASTENERS, SEALS, TUBES & HOSES / КРЕПЁЖ, УПЛОТНИТЕЛИ, ТРУБКИ И ШЛАНГИ
+<br>
+<br>
+#####################################################
+
+* Fasteners — bolts, screws, nuts, studs, washers (Крепёж: болты, винты, гайки, шпильки, шайбы)
+  * Hex head bolts M6/M8/M10 etc. (Болт шестигранный M6/M8/M10...)
+  * Torx screws (Винт Torx)
+  * Sheet metal screws (Саморезы по металлу)
+  * Self-tapping screws (Саморезы по пластику)
+  * Rivets (Заклёпки)
+  * Wheel bolts / lug bolts (Болты колёсные)
+  * Special fasteners (Clip / Retainer / Push-pin) (Клипсы, держатели, пистоны)
+* Seals & gaskets (Уплотнения и прокладки)
+  * O-rings (Кольца уплотнительные)
+  * Gaskets (Прокладки: для крышек, поддонов, коллектора)
+  * Rubber seals (Резиновые уплотнители дверей/стекол)
+  * Valve stem seals (Маслосъёмные колпачки)
+* Tubes & hoses (Трубки и шланги)
+  * Brake lines (Тормозные трубки)
+  * Fuel lines (Топливные трубки)
+  * Coolant hoses (Шланги охлаждения)
+  * Vacuum hoses (Вакуумные трубки)
+  * AC refrigerant lines (Трубки кондиционера)
+* Clamps, hose clips, brackets (Хомуты, зажимы, кронштейны)
