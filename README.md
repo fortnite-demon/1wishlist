@@ -344,3 +344,23 @@
   * Glovebox latch & dampers (Замок бардачка и демпфер)
   * Center armrest (Центральный подлокотник)
   * USB ports and trim (USB-порты и декоративные рамки)
+
+#####################################################
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;8. ВОСЬМОЙ МЕШОК САНТЫ: HVAC (Heating, Ventilation, Air Conditioning) / КЛИМАТ-КОНТРОЛЬ
+<br>
+<br>
+#####################################################
+
+* AC compressor (Компрессор кондиционера)
+  * AC clutch / pulley (Муфта компрессора)
+* Condenser (Конденсер кондиционера)
+* Evaporator (Испаритель)
+* Heater core (Радиатор печки) 
+* HVAC blower motor (Мотор печки / вентилятор салона)
+* HVAC control unit (Блок управления климатом)
+* Refrigerant lines & service ports (Фреоновые трубки и сервисные штуцеры)
+* Cabin air filter / pollen filter (Салонный фильтр)
+* Heater valves & actuators (Клапаны и приводы заслонок)
+* Climate sensors (Температуры/влажности)
