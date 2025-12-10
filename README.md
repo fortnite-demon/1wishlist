@@ -244,3 +244,56 @@
 * Spare / Mobility kit
   * Mobility kit compressor & sealant OR spare wheel (Комплект подкачки/герметика или запаска) 
   * Jack & tool kit (Домкрат и набор инструментов) 
+
+#####################################################
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;6. ШЕСТОЙ МЕШОК САНТЫ: BODY & EXTERIOR / КУЗОВ И НАРУЖНЫЕ ЭЛЕМЕНТЫ
+<br>
+<br>
+#####################################################
+
+* Body panels & external trims
+  * Front bumper cover (Передний бампер)
+    * Grille kidney (Решётка радиатора 'kidney grille') 
+    * Air intake trims (Воздухозаборники) 
+  * Rear bumper cover (Задний бампер) 
+  * Hood / Bonnet (Капот)
+    * Hood hinges (Петли капота) 
+    * Hood dampers / gas struts (Газовые упоры капота) 
+  * Trunk lid (Крышка багажника) 
+    * Trunk lock & actuator (Замок багажника и привод)
+  * Front fenders (Крылья передние)
+  * Rear quarter panels (Четверти задние) 
+  * Doors (Двери, передняя/задняя) 
+    * Door hinges (Петли двери) 
+    * Door latch & lock assembly (Замок двери)
+    * Door handles (Ручки наружные и внутренние) 
+    * Window regulator & motor (Механизм стеклоподъёмника + мотор) 
+    * Door seal weatherstrip (Уплотнитель двери) 
+  * Roof panel (Панель крыши) 
+    * Roof reinforcement & crossmembers (Усилители крыши) 
+* Glass & mirrors
+  * Windshield (Лобовое стекло) 
+    * Rain/light sensor (Датчик дождя/света) 
+  * Rear window (Заднее стекло) 
+  * Side windows (Боковые стекла) 
+  * Exterior mirrors left/right (Наружные зеркала) 
+    * Mirror motor & heater (Мотор регулировки и обогрев) 
+* Lighting (внешнее)
+  * Headlamp assemblies (Фары LED Adaptive Matrix) 
+    * Headlamp leveling motor (Привод регулировки) 
+  * Fog lamps / cornering lights (Противотуманные фары) 
+  * Rear lamps (Задние фонари LED) 
+  * License plate lights (Подсветка номера) 
+  * Turn signal repeaters (Поворотники) (front/side/rear)
+* Exterior trims & badges
+  * M badges and logos (Шильдики M/BMW) 
+  * Side skirts (Пороги) 
+  * Spoiler / lip (Спойлер) 
+* Seals & weatherstripping
+  * Door seals (Уплотнители дверей) 
+  * Window run channels (Направляющие стекол) 
+  * Trunk seal / boot seal (Уплотнитель багажника) 
+* Fasteners & clips for body panels
+  * Body panel screws, rivets, clips (Саморезы, заклёпки, пластиковые клипсы) 
