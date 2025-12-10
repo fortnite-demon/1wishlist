@@ -440,3 +440,28 @@
 * Bluetooth module (Модуль Bluetooth)
 * Head-up display unit (HUD)
 * Microphones (Микрофоны салона для hands-free)
+
+
+#####################################################
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;11. ОДИННАДЦАТЫЙ МЕШОК САНТЫ: DRIVER ASSIST & SAFETY SYSTEMS / СИСТЕМЫ ПОМОЩИ ВОДИТЕЛЮ И БЕЗОПАСНОСТЬ
+<br>
+<br>
+#####################################################
+
+* ADAS sensors & modules
+  * Front radar sensor (Радар адаптивного круиза) 
+  * Ultrasonic parking sensors (Датчики парктроника)
+  * Camera modules (Front/Rear/Surround view)
+  * Lane departure / steering assist module (Блок ассистента полосы)
+  * Night vision module (Опция: Night Vision camera & processing unit)
+* Airbag system (SRS)
+  * Driver airbag module (Подушка водителя)
+  * Passenger airbag module (Подушка пассажира)
+  * Side airbags (Боковые подушки)
+  * Curtain airbags (Шторки безопасности)
+  * Airbag control unit (SRS ECU)
+  * Crash sensors / impact sensors (Датчики удара) 
+* Seat belt pretensioners & sensors (Натяжители ремней и датчики)
+* Alarm & immobilizer (Сигнализация и иммобилайзер)
