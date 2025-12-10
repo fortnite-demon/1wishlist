@@ -188,3 +188,38 @@
   * Subframe mounting bolts (Болты крепления подрамника) 
   * Control arm bolts (Болты рычагов)
   * Toe/camber adjustment bolts (Регул. болты развала/схождения) 
+
+#####################################################
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;4. ЧЕТВЕРТЫЙ МЕШОК САНТЫ: BRAKES / ТОРМОЗНАЯ СИСТЕМА
+<br>
+<br>
+#####################################################
+
+* Brake system main components
+  * Brake master cylinder (Главный тормозной цилиндр)
+  * Brake booster / Brake-by-wire module (Усилитель тормозов / Brake-by-Wire) 
+  * Brake lines (metal) (Тормозные трубки металлические) 
+  * Flexible brake hoses (Резиновые тормозные шланги) 
+  * ABS control module / Hydraulic unit (ABS/ DSC блок) 
+  * Brake fluid reservoir (Бачок тормозной жидкости) 
+* Front brakes
+  * Brake discs front (Передние тормозные диски, вентиляционные) 
+    * Disc bolts / mounting screws (Болты крепления диска) 
+  * Brake calipers front (Передние суппорты, M multi-piston) 
+  * Brake pads front (Передние тормозные колодки) (комплект)
+  * Pad wear sensors front (Датчики износа колодок) 
+* Rear brakes
+  * Brake discs rear (Задние тормозные диски) 
+  * Brake calipers rear (Задние суппорты) 
+  * Brake pads rear (Задние колодки) 
+  * Parking brake mechanism (Электромеханический стояночный тормоз) 
+* Optional Carbon Ceramic brakes (Опция: карбоно-керамические тормоза)
+  * Ceramic brake discs (Керамические диски) 
+  * Ceramic brake calipers (Специальные суппорты) 
+  * Brake ducting & cooling elements (Трубки/каналы охлаждения тормозов) 
+* Brake mounting hardware
+  * Caliper mounting bolts (Болты крепления суппорта) 
+  * Brake pad retaining pins (Направляющие/пины колодок) 
+  * Banjo bolts & copper washers (Штуцеры и медные шайбы) 
