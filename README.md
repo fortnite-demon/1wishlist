@@ -142,3 +142,49 @@
   * Transmission mounting bolts (Болты крепления КПП) 
   * Output flange bolts (Болты фланца выхода) 
   * Seals and gaskets (Уплотнения и прокладки)
+
+#####################################################
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3. ТРЕТИЙ МЕШОК САНТЫ: SUSPENSION & STEERING / ПОДВЕСКА И РУЛЕВОЕ УПРАВЛЕНИЕ
+<br>
+<br>
+#####################################################
+* Front suspension / Передняя подвеска
+  * Front subframe / subframe crossmember (Подрамник передний)
+  * Control arms, lower (Нижние поперечные рычаги) (left/right)
+    * Control arm bushings (Сайлентблоки рычагов) 
+    * Ball joints (Шаровые опоры) 
+  * Control arms, upper / Additional links (Верхние рычаги/доп. тяги) 
+  * Strut assembly / MacPherson strut (Стойка в сборе, амортизатор + пружина) 
+    * Strut mount / top mount (Опора стойки) 
+    * Coil spring (Пружина)
+  * Anti-roll bar / Stabilizer bar (Стабилизатор поперечной устойчивости передний) 
+    * Stabilizer bushings (Втулки стабилизатора) 
+    * Stabilizer links / drop links (Стабилизаторные тяги)
+  * Steering knuckle / Upright / Hub carrier (Поворотный кулак/ступица)
+  * Wheel hub + bearing (Ступица с подшипником) 
+  * Brake caliper mounting bracket (Кронштейн суппорта)
+* Rear suspension / Задняя подвеска
+  * Rear subframe / carrier (Подрамник задний) 
+  * Multi-link arms (Многорычажная задняя подвеска: продольные/поперечные рычаги) 
+  * Rear strut / shock absorber (Амортизаторы задние) 
+  * Coil springs rear (Пружины задние)
+  * Rear anti-roll bar (Стабилизатор задний) 
+    * Rear stabilizer bushings (Втулки) 
+    * Rear stabilizer links (Тяги)
+  * Rear hub / wheel bearing assemblies (Задние ступицы с подшипником) 
+* Steering system / Рулевое управление
+  * Steering rack & pinion / Electric steering rack (Рулевая рейка электрическая) 
+    * Inner tie rod ends (Внутренние наконечники) 
+    * Outer tie rod ends (Наружные наконечники) 
+  * Steering column (Рулевая колонка)
+    * Steering wheel (Рулевое колесо M) 
+      * Airbag module (Модуль подушки руля) 
+      * Steering wheel controls (Кнопки управления) 
+  * Power steering pump (if hydraulic) / Electric assist module (Насос ГУР / ЭУ) 
+* Suspension mounting hardware and misc
+  * Strut nuts & bolts (Гайки/болты крепления стоек) 
+  * Subframe mounting bolts (Болты крепления подрамника) 
+  * Control arm bolts (Болты рычагов)
+  * Toe/camber adjustment bolts (Регул. болты развала/схождения) 
